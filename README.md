@@ -27,7 +27,7 @@ The market research team at AeroFit wants to identify the characteristics of the
 
 ## 2. PREPARE
 ### Data Storage:
-The public dataset is completely available on the public platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749
+The public dataset is completely available on the public platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: <a href = "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749" > Click here <a/>
 ### Tools Used:
   1. Google_Collab
 ### 3. ACT
